@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Personal Portfolio</h1>
 
-[https://ramzyraz.vercel.app/](https://ramzyraz.vercel.app/)
+[ramzyraz.vercel.app](https://ramzyraz.vercel.app/)
 
 </div>
 
@@ -9,3 +9,11 @@
 
 - [Next.js](https://nextjs.org/) - A React framework with hybrid static & server rendering, and route pre-fetching, etc.
 - [Tailwind](https://tailwindcss.com/) - A utility-first CSS framework for React
+
+<div align="justify">
+
+## License
+
+MIT
+
+</div>
